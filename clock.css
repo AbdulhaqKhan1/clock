@@ -1,0 +1,23 @@
+body{
+    background: orange;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.holder{
+    background: rgb(207, 153, 53);
+    border-radius: 1em;
+    padding: 1em;
+    width: 50vw;
+    text-align: center;
+    box-shadow: inset 4px 4px 4px 5px rgba(0, 0, 0, 0.1),
+            inset -4px -4px 4px 5px rgba(255, 255, 255, 0.1),
+            10px 10px rgba(0, 0, 0, 0.1);
+    margin: 1.5em auto;
+    font-size: 3em;
+}
+
+nav{
+    font-size: 4em;
+    color: white;
+}
